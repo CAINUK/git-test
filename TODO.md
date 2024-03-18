@@ -1,6 +1,9 @@
 # This is a List
 - Apples
-- Bnnanas
+- Bananas
 - Cherries
 - Mangos
 - Pineapples
+- Buy Lunch
+- Buy Dinner
+- 
